@@ -15,10 +15,10 @@ CC_data = True
 Udacity_data = False
 
 # directories for data
-directory_basic = '/home/carnd/Project3/data/'
-directory_xtra = '/home/carnd/Project3/data_XTRAdifficultParts/data/'
-directory_CC = '/home/carnd/Project3/data_CC2laps/'
-directory_udacity = '/home/carnd/Project3/data_udacity/data/'
+directory_basic = './data/'
+directory_xtra = './data_XTRAdifficultParts/data/'
+directory_CC = './data_CC2laps/'
+directory_udacity = './data_udacity/data/'
 
 lines = []
 image_names = []

@@ -11,10 +11,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/center.png "Center image"
-[image2]: ./examples/right.png "Right Image"
-[image3]: ./examples/left.png "Left Image"
-[image4]: ./examples/opposite.png "Opposite direction"
+[image1]: ./examples/center.jpg "Center image"
+[image2]: ./examples/right.jpg "Right Image"
+[image3]: ./examples/left.jpg "Left Image"
+[image4]: ./examples/opposite.jpg "Opposite direction"
 [image5]: ./examples/flipped.png "Flipped Image"
 
 ## Rubric Points
